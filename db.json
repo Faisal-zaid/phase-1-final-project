@@ -1,0 +1,186 @@
+{
+  "nganya": [
+    {
+      "id": "1",
+      "title": "opposite",
+      "street_name": "manunda",
+      "category": "kenya-1",
+      "hood": "umoja",
+      "votes": 27,
+      "description": "Three time Kenya 1 winner, this is the fourth time contesting.",
+      "image": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg",
+      "driver":"Evanso"
+    },
+    {
+      "id": "2",
+      "title": "John Wick",
+      "street_name": "Baba Yaga",
+      "category": "kenya-1",
+      "hood": "rongai",
+      "votes": 20,
+      "description": "debuted April 2025.",
+      "image": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg",
+      "driver":"Maleek"
+    },{
+      "id": "3",
+      "title": "moxie",
+      "street_name": "ya makwela",
+      "category": "kenya-1",
+      "hood": "rongai",
+      "votes": 7,
+      "description": "debuted march 2025.",
+      "image": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg",
+      "driver":"kinara"
+    },{
+      "id": "4",
+      "title": "mood",
+      "street_name": "",
+      "category": "jamuhuri-1",
+      "hood": "embakasi",
+      "votes": 15,
+      "description": "debuted july 2025 under raptor family.",
+      "image": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg",
+      "driver":"lenny"
+    },{
+      "id": "5",
+      "title": "Detroit",
+      "street_name": "313",
+      "category": "riko of the year",
+      "hood": "rongai",
+      "votes": 12,
+      "description": "debuted december 2024 as invisble but later on went on a full riko and made its comeback as detroit.Under Invisible family",
+      "image": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg",
+      "driver":"top shotta"
+    },{
+      "id": "6",
+      "title": "optimus prime",
+      "street_name": "",
+      "category": "jamuhuri-1",
+      "hood": "embakasi",
+      "votes": 15,
+      "description": "debuted in august 2025.",
+      "image": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg",
+      "driver":"bumbruss"
+    },{
+      "id": "7",
+      "title": "g-unit",
+      "street_name": "",
+      "category": "best maintained 2025",
+      "hood": "rongai",
+      "votes": 2,
+      "description": "debuted december 2023, was the best maintained jav in 2024.",
+      "image": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg",
+      "driver":"sule a.k.a majority leader"
+    },{
+      "id": "8",
+      "title": "x-trail",
+      "street_name": "",
+      "category": "jamuhuri-1",
+      "hood": "kayole junction",
+      "votes": 27,
+      "description": "debuted june 2025.",
+      "image": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg",
+      "driver":""
+    },{
+      "id": "9",
+      "title": "ferrari",
+      "street_name": "",
+      "category": "jamuhuri-1",
+      "hood": "rongai",
+      "votes": 27,
+      "description": "debuted april 2025, currently rat race 001.",
+      "image": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg",
+      "driver":"gateru"
+    },{
+      "id": "10",
+      "title": "heartless",
+      "street_name": "",
+      "category": "sound beast",
+      "hood": "embakasi",
+      "votes": 27,
+      "description": "debuted on january 2025 under ubuntu family.",
+      "image": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg",
+      "driver":"mcheza"
+    },{
+      "id": "11",
+      "title": "moneyfest",
+      "street_name": "111 tango",
+      "category": "kenya-1",
+      "hood": "embakasi",
+      "votes": 27,
+      "description": "sound beast of the year 2024 and jamuhuri 1 2024.",
+      "image": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg",
+      "driver":"hatari-man"
+    },{
+      "id": "12",
+      "title": "phenomenal",
+      "street_name": "",
+      "category": "sound-beast",
+      "hood": "ngong",
+      "votes": 27,
+      "description": "music system so goated it broke its windows 7 times.",
+      "image": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg",
+      "driver":""
+    },{
+      "id": "13",
+      "title": "wild ones",
+      "street_name": "",
+      "category": "uniform-1",
+      "hood": "rongai",
+      "votes": 27,
+      "description": "debuted september 2025, has the sacco's uniform but still competes with nganyas.",
+      "image": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg",
+      "driver":""
+    },{
+      "id": "14",
+      "title": "uppercut",
+      "street_name": "makmende",
+      "category": "uniform-1",
+      "hood": "kasarani",
+      "votes": 27,
+      "description": "under expresso sacco.",
+      "image": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg",
+      "driver":""
+    },{
+      "id": "15",
+      "title": "bobo",
+      "street_name": "panda-2",
+      "category": "uniform-1",
+      "hood": "ruai",
+      "votes": 27,
+      "description": "under atomic shuttle.",
+      "image": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg",
+      "driver":""
+    },{
+      "id": "16",
+      "title": "ali bomaye",
+      "street_name": "",
+      "category": "kenya-1",
+      "hood": "umoja",
+      "votes": 27,
+      "description": "a cool jav that doesnt need a noisy crew to stand out.",
+      "image": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg",
+      "driver":""
+    },{
+      "id": "17",
+      "title": "plank",
+      "street_name": "shabadoo",
+      "category": "kenya-1",
+      "hood": "umoja",
+      "votes": 27,
+      "description": "manunda's rival pale umoja, always racing.",
+      "image": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg",
+      "driver":"gagula"
+    },{
+      "id": "18",
+      "title": "kids next door",
+      "street_name": "knd",
+      "category": "jamuhuri-1",
+      "hood": "umoja",
+      "votes": 27,
+      "description": "debuted september 2025 under c-net family. Rival to manunda and plank.",
+      "image": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg",
+      "driver":"oliver"
+    }
+  ]
+}
