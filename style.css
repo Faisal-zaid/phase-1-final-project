@@ -11,18 +11,21 @@ header{
     align-items: center;
     padding-right: 500px;
     padding-left: 800px;
+    border: 6px solid;
+    border-radius: 20px;
 }
 
 main{
     display: flex;
     flex-direction: row;
-    gap: 30px;
+    gap: 80px;
 }
 
 body{
-    /* background-color: rgb(92, 86, 85); */
+    /* background-color: rgb(92, 86, 85);  */
+    background-image: url("PHOTOS2/Gemini_Generated_Image_k0ydmfk0ydmfk0yd.png");
 }
-#info{
+ #info{ 
     /* background-color: gray; */
     border: 2px solid;
     border-color: beige;
@@ -31,4 +34,61 @@ body{
     border-radius: 20px;
     width: fit-content;
     max-height: fit-content;
+    color: white;
 }
+
+#contestants{
+    margin: 20px;
+    list-style: none;
+    background-color: black;
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px; 
+    width: 200px;
+    text-align: justify;
+    border: 4px solid;
+    border-color: beige;
+    border-radius: 20px;
+    
+}
+
+#contestants li {
+    cursor: pointer;
+    
+    
+}
+#contestants li:hover{
+    background: gold;
+}
+
+#nganya-image{
+    margin: 10px;
+    border-radius: 50%;
+}
+
+#anime{
+    background-color: gold;
+    margin-top: 50px;
+    border-radius: 50%;
+}
+
+#pilot-details{
+    margin-top: 50px;
+    background-color: black;
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    height: fit-content;
+    border: 5px solid;
+    border-color: gold;
+    border-radius: 10px;
+}
+
+#pilot-details button{
+    background-color: beige;
+}
+
+#pilot-details button:hover{
+    background-color: gold;
+}
+

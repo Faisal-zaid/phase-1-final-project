@@ -8,8 +8,9 @@
       "hood": "umoja",
       "votes": 27,
       "description": "Three time Kenya 1 winner, this is the fourth time contesting.",
-      "image": ["PHOTOS2/Screenshot from 2025-09-25 13-44-30.png", "PHOTOS2/Screenshot from 2025-09-25 13-46-04.png"],
-      "driver":"Evanso"
+      "image": "PHOTOS2/Screenshotfrom2025-09-2513-44-30.png",
+      "driver": "Evanso",
+      "driverVotes": 11
     },
     {
       "id": "2",
@@ -19,19 +20,23 @@
       "hood": "rongai",
       "votes": 20,
       "description": "debuted April 2025.",
-      "image": ["PHOTOS2/Screenshot from 2025-09-25 13-47-11.png", "PHOTOS2/Screenshot from 2025-09-25 13-48-04.png"],
-      "driver":"Maleek"
-    },{
+      "image": "PHOTOS2/Screenshot from 2025-09-25 13-47-11.png",
+      "driver": "Maleek",
+      "driverVotes": 2
+    },
+    {
       "id": "3",
       "title": "moxie",
       "street_name": "ya makwela",
       "category": "kenya-1",
       "hood": "rongai",
-      "votes": 7,
+      "votes": 8,
       "description": "debuted march 2025.",
-      "image": ["PHOTOS2/Screenshot from 2025-09-25 13-56-52.png", "PHOTOS2/Screenshot from 2025-09-25 13-57-31.png"],
-      "driver":"kinara"
-    },{
+      "image": "PHOTOS2/Screenshot from 2025-09-25 13-56-52.png",
+      "driver": "kinara",
+      "driverVotes": "0"
+    },
+    {
       "id": "4",
       "title": "mood",
       "street_name": "",
@@ -39,9 +44,11 @@
       "hood": "embakasi",
       "votes": 15,
       "description": "debuted july 2025 under raptor family.",
-      "image": ["PHOTOS2/Screenshot from 2025-09-25 13-49-42.png", "PHOTOS2/Screenshot from 2025-09-25 13-50-58.png"],
-      "driver":"lenny"
-    },{
+      "image": "PHOTOS2/Screenshot from 2025-09-25 13-49-42.png",
+      "driver": "lenny",
+      "driverVotes": 1
+    },
+    {
       "id": "5",
       "title": "Detroit",
       "street_name": "313",
@@ -49,9 +56,11 @@
       "hood": "rongai",
       "votes": 12,
       "description": "debuted december 2024 as invisble but later on went on a full riko and made its comeback as detroit.Under Invisible family",
-      "image": ["PHOTOS2/Screenshot from 2025-09-25 13-51-34.png", "PHOTOS2/Screenshot from 2025-09-25 13-52-34.png"],
-      "driver":"top shotta"
-    },{
+      "image": "PHOTOS2/Screenshot from 2025-09-25 13-51-34.png",
+      "driver": "top shotta",
+      "driverVotes": 4
+    },
+    {
       "id": "6",
       "title": "optimus prime",
       "street_name": "",
@@ -59,9 +68,11 @@
       "hood": "embakasi",
       "votes": 15,
       "description": "debuted in august 2025.",
-      "image": ["PHOTOS2/Screenshot from 2025-09-25 13-58-27.png", "PHOTOS2/Screenshot from 2025-09-25 13-58-48.png"],
-      "driver":"bumbruss"
-    },{
+      "image": "PHOTOS2/Screenshot from 2025-09-25 13-58-27.png",
+      "driver": "bumbruss",
+      "driverVotes": "0"
+    },
+    {
       "id": "7",
       "title": "g-unit",
       "street_name": "",
@@ -69,9 +80,11 @@
       "hood": "rongai",
       "votes": 2,
       "description": "debuted december 2023, was the best maintained jav in 2024.",
-      "image": ["PHOTOS2/Screenshot from 2025-09-25 13-58-48.png", "PHOTOS2/Screenshot from 2025-09-25 14-00-17.png"],
-      "driver":"sule a.k.a majority leader"
-    },{
+      "image": "PHOTOS2/Screenshot from 2025-09-25 14-00-17.png",
+      "driver": "sule a.k.a majority leader",
+      "driverVotes": 3
+    },
+    {
       "id": "8",
       "title": "x-trail",
       "street_name": "",
@@ -79,9 +92,11 @@
       "hood": "kayole junction",
       "votes": 27,
       "description": "debuted june 2025.",
-      "image": ["PHOTOS2/Screenshot from 2025-09-25 14-01-05.png", "PHOTOS2/Screenshot from 2025-09-25 14-01-36.png"],
-      "driver":""
-    },{
+      "image": "PHOTOS2/Screenshot from 2025-09-25 14-01-05.png",
+      "driver": "",
+      "driverVotes": "0"
+    },
+    {
       "id": "9",
       "title": "ferrari",
       "street_name": "",
@@ -89,19 +104,23 @@
       "hood": "rongai",
       "votes": 27,
       "description": "debuted april 2025, currently rat race 001.",
-      "image": ["PHOTOS2/Screenshot from 2025-09-25 13-55-02.png", "PHOTOS2/Screenshot from 2025-09-25 13-56-12.png"],
-      "driver":"gateru"
-    },{
+      "image": "PHOTOS2/Screenshot from 2025-09-25 13-55-02.png",
+      "driver": "gateru",
+      "driverVotes": "0"
+    },
+    {
       "id": "10",
       "title": "heartless",
       "street_name": "",
       "category": "sound beast",
       "hood": "embakasi",
-      "votes": 27,
+      "votes": 28,
       "description": "debuted on january 2025 under ubuntu family.",
-      "image": ["PHOTOS2/Screenshot from 2025-09-25 14-02-36.png", "PHOTOS2/Screenshot from 2025-09-25 14-03-04.png"],
-      "driver":"mcheza"
-    },{
+      "image": "PHOTOS2/Screenshot from 2025-09-25 14-02-36.png",
+      "driver": "mcheza",
+      "driverVotes": "0"
+    },
+    {
       "id": "11",
       "title": "moneyfest",
       "street_name": "111 tango",
@@ -109,19 +128,23 @@
       "hood": "embakasi",
       "votes": 27,
       "description": "sound beast of the year 2024 and jamuhuri 1 2024.",
-      "image": ["PHOTOS2/Screenshot from 2025-09-25 13-48-55.png", "PHOTOS2/Screenshot from 2025-09-25 13-49-07.png"],
-      "driver":"hatari-man"
-    },{
+      "image": "PHOTOS2/Screenshot from 2025-09-25 13-48-55.png",
+      "driver": "hatari-man",
+      "driverVotes": "0"
+    },
+    {
       "id": "12",
       "title": "phenomenal",
       "street_name": "",
       "category": "sound-beast",
       "hood": "ngong",
-      "votes": 27,
+      "votes": 29,
       "description": "music system so goated it broke its windows 7 times.",
-      "image": ["PHOTOS2/Screenshot from 2025-09-25 14-04-03.png", "PHOTOS2/Screenshot from 2025-09-25 14-04-32.png"],
-      "driver":""
-    },{
+      "image": "PHOTOS2/Screenshot from 2025-09-25 14-04-03.png",
+      "driver": "",
+      "driverVotes": "0"
+    },
+    {
       "id": "13",
       "title": "wild ones",
       "street_name": "",
@@ -129,9 +152,11 @@
       "hood": "rongai",
       "votes": 27,
       "description": "debuted september 2025, has the sacco's uniform but still competes with nganyas.",
-      "image": ["PHOTOS2/Screenshot from 2025-09-25 14-05-19.png" ],
-      "driver":""
-    },{
+      "image": "PHOTOS2/Screenshot from 2025-09-25 14-05-19.png",
+      "driver": "",
+      "driverVotes": "0"
+    },
+    {
       "id": "14",
       "title": "uppercut",
       "street_name": "makmende",
@@ -139,9 +164,11 @@
       "hood": "kasarani",
       "votes": 27,
       "description": "under expresso sacco.",
-      "image": ["PHOTOS2/Screenshot from 2025-09-25 14-06-17.png", "PHOTOS2/Screenshot from 2025-09-25 14-07-37.png"],
-      "driver":""
-    },{
+      "image": "PHOTOS2/Screenshot from 2025-09-25 14-06-17.png",
+      "driver": "",
+      "driverVotes": "0"
+    },
+    {
       "id": "15",
       "title": "bobo",
       "street_name": "panda-2",
@@ -149,9 +176,11 @@
       "hood": "ruai",
       "votes": 27,
       "description": "under atomic shuttle.",
-      "image": ["PHOTOS2/Screenshot from 2025-09-25 14-08-17.png", "PHOTOS2/Screenshot from 2025-09-25 14-09-07.png"],
-      "driver":""
-    },{
+      "image": "PHOTOS2/Screenshot from 2025-09-25 14-08-17.png",
+      "driver": "",
+      "driverVotes": "0"
+    },
+    {
       "id": "16",
       "title": "ali bomaye",
       "street_name": "",
@@ -159,9 +188,11 @@
       "hood": "umoja",
       "votes": 27,
       "description": "a cool jav that doesnt need a noisy crew to stand out.",
-      "image": ["PHOTOS2/Screenshot from 2025-09-25 14-10-08.png", "PHOTOS2/Screenshot from 2025-09-25 14-11-07.png"],
-      "driver":""
-    },{
+      "image": "PHOTOS2/Screenshot from 2025-09-25 14-10-08.png",
+      "driver": "",
+      "driverVotes": "0"
+    },
+    {
       "id": "17",
       "title": "plank",
       "street_name": "shabadoo",
@@ -169,9 +200,11 @@
       "hood": "umoja",
       "votes": 27,
       "description": "manunda's rival pale umoja, always racing.",
-      "image": ["PHOTOS2/Screenshot from 2025-09-25 14-11-50.png", "PHOTOS2/Screenshot from 2025-09-25 14-12-24.png"],
-      "driver":"gagula"
-    },{
+      "image": "PHOTOS2/Screenshot from 2025-09-25 14-11-50.png",
+      "driver": "gagula",
+      "driverVotes": "0"
+    },
+    {
       "id": "18",
       "title": "kids next door",
       "street_name": "knd",
@@ -179,8 +212,9 @@
       "hood": "umoja",
       "votes": 27,
       "description": "debuted september 2025 under c-net family. Rival to manunda and plank.",
-      "image": ["PHOTOS2/Screenshot from 2025-09-25 14-12-53.png", "PHOTOS2/Screenshot from 2025-09-25 14-14-06.png"],
-      "driver":"oliver"
+      "image": "PHOTOS2/Screenshot from 2025-09-25 14-12-53.png",
+      "driver": "oliver",
+      "driverVotes": "0"
     }
   ]
 }
