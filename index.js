@@ -27,12 +27,12 @@ fetch("http://localhost:3000/nganya")
     }
   });
 
-  //creates a list for each contestant nganya
+//creates a list for each contestant nganya
 function displaycontestant(nganya) {
   nganyas.forEach((nganya) => {
     const li = document.createElement("li");
     li.textContent = nganya.title;
-    li.addEventListener("click", () => showContestant(nganya));//display infor when clicked
+    li.addEventListener("click", () => showContestant(nganya)); //display infor when clicked
     contestant.appendChild(li);
   });
 }
@@ -46,15 +46,15 @@ function showContestant(nganya) {
   mtaa.textContent = "hood:" + "" + nganya.hood;
   kuhusu.textContent = "about:" + "" + nganya.description;
   nganyaVotes.textContent = nganya.votes;
-  driver.textContent ="driver:"+"" + nganya.driver;
-  driverVotes.textContent ="driver votes:"+""+ nganya.driverVotes;
+  driver.textContent = "driver:" + "" + nganya.driver;
+  driverVotes.textContent = "driver votes:" + "" + nganya.driverVotes;
 }
 //where the nganya votes happen
 votes.addEventListener("click", () => {
   if (selectedNganya) {
     selectedNganya.votes++;
     nganyaVotes.textContent = selectedNganya.votes;
-//updates the server
+    //updates the server
     fetch(`http://localhost:3000/nganya/${selectedNganya.id}`, {
       method: "PATCH",
       headers: { "Content-Type": "application/json" },
