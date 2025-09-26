@@ -8,7 +8,7 @@
       "hood": "umoja",
       "votes": 27,
       "description": "Three time Kenya 1 winner, this is the fourth time contesting.",
-      "image": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg",
+      "image": ["PHOTOS2/Screenshot from 2025-09-25 13-44-30.png", "PHOTOS2/Screenshot from 2025-09-25 13-46-04.png"],
       "driver":"Evanso"
     },
     {
@@ -19,7 +19,7 @@
       "hood": "rongai",
       "votes": 20,
       "description": "debuted April 2025.",
-      "image": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg",
+      "image": ["PHOTOS2/Screenshot from 2025-09-25 13-47-11.png", "PHOTOS2/Screenshot from 2025-09-25 13-48-04.png"],
       "driver":"Maleek"
     },{
       "id": "3",
@@ -29,7 +29,7 @@
       "hood": "rongai",
       "votes": 7,
       "description": "debuted march 2025.",
-      "image": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg",
+      "image": ["PHOTOS2/Screenshot from 2025-09-25 13-56-52.png", "PHOTOS2/Screenshot from 2025-09-25 13-57-31.png"],
       "driver":"kinara"
     },{
       "id": "4",
@@ -39,7 +39,7 @@
       "hood": "embakasi",
       "votes": 15,
       "description": "debuted july 2025 under raptor family.",
-      "image": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg",
+      "image": ["PHOTOS2/Screenshot from 2025-09-25 13-49-42.png", "PHOTOS2/Screenshot from 2025-09-25 13-50-58.png"],
       "driver":"lenny"
     },{
       "id": "5",
@@ -49,7 +49,7 @@
       "hood": "rongai",
       "votes": 12,
       "description": "debuted december 2024 as invisble but later on went on a full riko and made its comeback as detroit.Under Invisible family",
-      "image": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg",
+      "image": ["PHOTOS2/Screenshot from 2025-09-25 13-51-34.png", "PHOTOS2/Screenshot from 2025-09-25 13-52-34.png"],
       "driver":"top shotta"
     },{
       "id": "6",
@@ -59,7 +59,7 @@
       "hood": "embakasi",
       "votes": 15,
       "description": "debuted in august 2025.",
-      "image": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg",
+      "image": ["PHOTOS2/Screenshot from 2025-09-25 13-58-27.png", "PHOTOS2/Screenshot from 2025-09-25 13-58-48.png"],
       "driver":"bumbruss"
     },{
       "id": "7",
@@ -69,7 +69,7 @@
       "hood": "rongai",
       "votes": 2,
       "description": "debuted december 2023, was the best maintained jav in 2024.",
-      "image": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg",
+      "image": ["PHOTOS2/Screenshot from 2025-09-25 13-58-48.png", "PHOTOS2/Screenshot from 2025-09-25 14-00-17.png"],
       "driver":"sule a.k.a majority leader"
     },{
       "id": "8",
@@ -79,7 +79,7 @@
       "hood": "kayole junction",
       "votes": 27,
       "description": "debuted june 2025.",
-      "image": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg",
+      "image": ["PHOTOS2/Screenshot from 2025-09-25 14-01-05.png", "PHOTOS2/Screenshot from 2025-09-25 14-01-36.png"],
       "driver":""
     },{
       "id": "9",
@@ -89,7 +89,7 @@
       "hood": "rongai",
       "votes": 27,
       "description": "debuted april 2025, currently rat race 001.",
-      "image": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg",
+      "image": ["PHOTOS2/Screenshot from 2025-09-25 13-55-02.png", "PHOTOS2/Screenshot from 2025-09-25 13-56-12.png"],
       "driver":"gateru"
     },{
       "id": "10",
@@ -99,7 +99,7 @@
       "hood": "embakasi",
       "votes": 27,
       "description": "debuted on january 2025 under ubuntu family.",
-      "image": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg",
+      "image": ["PHOTOS2/Screenshot from 2025-09-25 14-02-36.png", "PHOTOS2/Screenshot from 2025-09-25 14-03-04.png"],
       "driver":"mcheza"
     },{
       "id": "11",
@@ -109,7 +109,7 @@
       "hood": "embakasi",
       "votes": 27,
       "description": "sound beast of the year 2024 and jamuhuri 1 2024.",
-      "image": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg",
+      "image": ["PHOTOS2/Screenshot from 2025-09-25 13-48-55.png", "PHOTOS2/Screenshot from 2025-09-25 13-49-07.png"],
       "driver":"hatari-man"
     },{
       "id": "12",
@@ -119,7 +119,7 @@
       "hood": "ngong",
       "votes": 27,
       "description": "music system so goated it broke its windows 7 times.",
-      "image": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg",
+      "image": ["PHOTOS2/Screenshot from 2025-09-25 14-04-03.png", "PHOTOS2/Screenshot from 2025-09-25 14-04-32.png"],
       "driver":""
     },{
       "id": "13",
@@ -129,7 +129,7 @@
       "hood": "rongai",
       "votes": 27,
       "description": "debuted september 2025, has the sacco's uniform but still competes with nganyas.",
-      "image": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg",
+      "image": ["PHOTOS2/Screenshot from 2025-09-25 14-05-19.png" ],
       "driver":""
     },{
       "id": "14",
@@ -139,7 +139,7 @@
       "hood": "kasarani",
       "votes": 27,
       "description": "under expresso sacco.",
-      "image": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg",
+      "image": ["PHOTOS2/Screenshot from 2025-09-25 14-06-17.png", "PHOTOS2/Screenshot from 2025-09-25 14-07-37.png"],
       "driver":""
     },{
       "id": "15",
@@ -149,7 +149,7 @@
       "hood": "ruai",
       "votes": 27,
       "description": "under atomic shuttle.",
-      "image": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg",
+      "image": ["PHOTOS2/Screenshot from 2025-09-25 14-08-17.png", "PHOTOS2/Screenshot from 2025-09-25 14-09-07.png"],
       "driver":""
     },{
       "id": "16",
@@ -159,7 +159,7 @@
       "hood": "umoja",
       "votes": 27,
       "description": "a cool jav that doesnt need a noisy crew to stand out.",
-      "image": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg",
+      "image": ["PHOTOS2/Screenshot from 2025-09-25 14-10-08.png", "PHOTOS2/Screenshot from 2025-09-25 14-11-07.png"],
       "driver":""
     },{
       "id": "17",
@@ -169,7 +169,7 @@
       "hood": "umoja",
       "votes": 27,
       "description": "manunda's rival pale umoja, always racing.",
-      "image": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg",
+      "image": ["PHOTOS2/Screenshot from 2025-09-25 14-11-50.png", "PHOTOS2/Screenshot from 2025-09-25 14-12-24.png"],
       "driver":"gagula"
     },{
       "id": "18",
@@ -179,7 +179,7 @@
       "hood": "umoja",
       "votes": 27,
       "description": "debuted september 2025 under c-net family. Rival to manunda and plank.",
-      "image": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg",
+      "image": ["PHOTOS2/Screenshot from 2025-09-25 14-12-53.png", "PHOTOS2/Screenshot from 2025-09-25 14-14-06.png"],
       "driver":"oliver"
     }
   ]

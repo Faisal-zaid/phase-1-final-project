@@ -18,3 +18,17 @@ main{
     flex-direction: row;
     gap: 30px;
 }
+
+body{
+    /* background-color: rgb(92, 86, 85); */
+}
+#info{
+    /* background-color: gray; */
+    border: 2px solid;
+    border-color: beige;
+    padding: 20px 15px;
+    margin: 30px 100px;
+    border-radius: 20px;
+    width: fit-content;
+    max-height: fit-content;
+}
